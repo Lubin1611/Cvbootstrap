@@ -1,6 +1,15 @@
+.container {
+    border: 2px black ridge;
+}
+img {
+    width: 25px;
+    height: 50x;
+}
 #coordonnees {
     text-align: center;
     border: 2px black ridge;
+    padding-top : 40px;
+    border-radius:15px;
 }
 
 #photo {
@@ -10,5 +19,34 @@
     height: 250px;
     background-size: 300px;
     background-repeat: no-repeat;
+    border-radius:15px;
 }
 
+#experiencepro {
+    text-align: center;
+}
+
+#formations {
+    text-align: center;
+}
+
+#bouton {
+    float: left;
+    margin-right: 100px;
+}
+
+#bouton2 {
+    float: left;
+    margin-right: 100px;
+}
+
+.dates {
+    border: 2px blue dashed;
+    text-align: center;
+}
+
+#competences {
+
+    text-align: center;
+
+}
